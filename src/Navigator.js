@@ -17,6 +17,7 @@ export default function Navigator({ navigation }) {
     navigation.setOptions({
       headerTitle: "Header",
       headerStyle: {
+        color: '#ffffff',
         backgroundColor: "#273142",
         shadowColor: "transparent",
         height: Platform.OS === "android" ? 70 : statusBarHeight + 70,
