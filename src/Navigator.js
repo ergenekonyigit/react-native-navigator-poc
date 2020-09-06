@@ -76,5 +76,3 @@ export default function Navigator({ navigation }) {
     </>
   );
 }
-
-export default Navigator;
