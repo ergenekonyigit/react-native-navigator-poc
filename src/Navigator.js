@@ -16,8 +16,8 @@ export default function Navigator({ navigation }) {
   React.useEffect(() => {
     navigation.setOptions({
       headerTitle: "Header",
+      headerTintColor: "#ffffff",
       headerStyle: {
-        color: '#ffffff',
         backgroundColor: "#273142",
         shadowColor: "transparent",
         height: Platform.OS === "android" ? 70 : statusBarHeight + 70,
