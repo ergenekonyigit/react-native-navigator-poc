@@ -1,5 +1,5 @@
 ## Installation
 
 ```
-npm i react-native-progress-steps
+npm i @ergenekonyigit/react-native-navigator-poc
 ```
