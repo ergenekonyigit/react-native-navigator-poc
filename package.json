@@ -1,6 +1,6 @@
 {
   "name": "@ergenekonyigit/react-native-navigator-poc",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "react native navigator poc",
   "main": "index.js",
   "scripts": {
